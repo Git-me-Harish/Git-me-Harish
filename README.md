@@ -40,9 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-me-harish&show_icons=true&locale=en" alt="git-me-harish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-me-harish&" alt="git-me-harish" /></p>
-
-<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/6ae30608-1152-11ee-a832-8bf47b1739dd/KdwHDJSqNs.gif">
-
-
 </body>
 </html>
