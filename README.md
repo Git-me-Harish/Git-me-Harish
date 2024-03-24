@@ -6,11 +6,12 @@
 <title>Sri Harish Profile</title>
 </head>
 <body>
+
 <a href="https://rishavchanda.io" target="_blank">
-  <img src="[https://miro.medium.com/v2/resize:fit:1400/1*jm75PhwcXyP4I0gVU_wxRg.gif](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" alt="MasterHead" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*jm75PhwcXyP4I0gVU_wxRg.gif" alt="MasterHead" />
 </a>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <h1 align="center">Hi 👋, I'm Sri Harish</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
