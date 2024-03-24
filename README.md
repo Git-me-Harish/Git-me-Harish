@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sri Harish Profile</title>
+</head>
+<body>
 <a href="https://rishavchanda.io" target="_blank">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*jm75PhwcXyP4I0gVU_wxRg.gif" alt="MasterHead" />
 </a>
