@@ -41,5 +41,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-me-harish&" alt="git-me-harish" /></p>
 
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+
+
 </body>
 </html>
