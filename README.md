@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@harish18200" target="blank"><img src="https://img.shields.io/twitter/follow/@harish18200?logo=twitter&style=for-the-badge" alt="@harish18200" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Deep Learning & Open CV**
 
 - 🌱 I’m currently learning **MERN stack ,**
 
