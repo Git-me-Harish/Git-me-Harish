@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack ,**
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
+- 👯 I’m looking to collaborate on **Full Stack Web Development**
 
 - 🤝 I’m looking for help with **Generative AI**
 
