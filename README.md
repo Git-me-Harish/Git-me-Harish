@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science Student from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/c4eda68ed08f4be1f7d996c937ed3a2d0b916c65e744c41e528816e69bc5e82b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966](https://github.com/aryanshroff/aryanshroff)">
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-me-harish&label=Profile%20views&color=0e75b6&style=flat" alt="git-me-harish" /> </p>
 
