@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sri Harish</h1>
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Sri Harish</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
 
