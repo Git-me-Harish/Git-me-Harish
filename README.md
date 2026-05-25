@@ -8,48 +8,32 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="380" alt="Coding GIF" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="360" alt="AI Coding GIF" />
+
+<div align="left">
 
 <h1>Hi there, I'm Sri Harish 👋</h1>
 
 <h3>🤖 AI/ML Engineer · Data Scientist · Full-Stack Developer</h3>
 
+<p>
+  Final-year AI & Data Science undergrad from India — building production-grade ML systems,<br/>
+  shipping full-stack AI applications, and exploring the frontier of Agentic AI & LLM Ops.
+</p>
+
 <br/>
 
 🔭 &nbsp;Currently building **production-grade Deep Learning systems**  
-🌱 &nbsp;Exploring **Agentic AI**, **LLM Ops**, and **ML Ops** 
+🌱 &nbsp;Exploring **Agentic AI**, **LLM Ops**, and **ML Ops**  
 👯 &nbsp;Open to collaborate on **AI/ML Research & Full-Stack AI Systems**  
 🤝 &nbsp;Looking to contribute to **Generative AI & LLM Applications**  
 💬 &nbsp;Ask me about **Data Science, MLOps, and AI Engineering**  
 📫 &nbsp;Reach me at **sriharishbiology@gmail.com**  
 🌐 &nbsp;Portfolio → [sriharish.dev](https://sriharish182004-qmhv69lh5-sriharishbiology-gmailcoms-projects.vercel.app/)
 
+</div>
+
 <br clear="right"/>
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/@harish18200" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/sri-harish" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://kaggle.com/harishinkaggle" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://www.hackerrank.com/@sriharishbiology" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://stackoverflow.com/users/23374832" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sriharishitnm" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
 
 ---
 
@@ -134,16 +118,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=git-me-harish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-me-harish&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=git-me-harish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-me-harish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-me-harish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -152,5 +131,57 @@
 ---
 
 <div align="center">
-  <i>"Build systems that learn, scale, and serve." — Sri Harish</i>
+  <img src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif" width="480" alt="Contact GIF" />
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<p>
+  <a href="mailto:sriharishbiology@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sriharishbiology%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/harishconnects/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Harish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+<p>
+  <a href="tel:+916369310588">
+    <img src="https://img.shields.io/badge/Phone-%2B91%206369310588-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://twitter.com/@harish18200" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/harishinkaggle" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/@sriharishbiology" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/23374832" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sriharishitnm" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
+
+<br/>
+
+<i>"Build systems that learn, scale, and serve." — Sri Harish</i>
+
 </div>
