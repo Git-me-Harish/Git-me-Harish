@@ -6,7 +6,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner" />
 </div>
 
----
+<div align="center">
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="100%"
+/>
+
+</div>
 
 <table style="width:100%; border:none;">
 <tr style="border:none;">
@@ -152,14 +159,21 @@
   <img src="https://img.shields.io/badge/Micro_Focus_Octane-6F2C91?style=for-the-badge&logoColor=white"/>
 </p>
 
----
+<div align="center">
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="100%"
+/>
+
+</div>
 
 # ⚡ GitHub Stats
 
 <table style="width:100%; border:none;">
 <tr style="border:none;">
 
-<td width="65%" align="center" style="border:none;">
+<td width="65%" align="center" valign="top" style="border:none;">
 
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=git-me-harish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" 
@@ -167,15 +181,23 @@
   alt="GitHub Stats" 
 />
 
-<br/><br/>
+<div align="center">
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=git-me-harish&theme=tokyonight&hide_border=true&card_width=700" 
+  src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"
+  width="55%"
+  alt="Divider Animation"
+/>
+
+</div>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=git-me-harish&theme=tokyonight&hide_border=true" 
+  width="100%"
   alt="GitHub Streak" 
 />
 
 </td>
-
 <td width="35%" align="center" valign="middle" style="border:none;">
 
 <img 
@@ -197,7 +219,14 @@
 </tr>
 </table>
 
----
+<div align="center">
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="100%"
+/>
+
+</div>
 
 # 📬 Let's Connect
 
