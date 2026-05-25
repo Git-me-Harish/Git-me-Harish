@@ -25,13 +25,12 @@
 <div align="left">
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;LLM+%26+Agentic+AI+Builder;System+Design+Engineer;Scalable+AI+Systems+Architect;Performance+Optimization+Engineer;Security+Focused+AI+Developer;Full-Stack+AI+Engineer;MLOps+%26+Data+Engineering;Deep+Learning+Practitioner" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=false&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;LLM+%26+Agentic+AI+Builder;System+Design+Engineer;Scalable+AI+Systems+Architect;Performance+Optimization+Engineer;Security+Focused+AI+Developer;Full-Stack+AI+Engineer;MLOps+%26+Data+Engineering;Deep+Learning+Practitioner" 
   alt="Typing SVG" 
 />
 
 </div>
 
-<br/>
 
 <p>
   AI/ML Engineer with <strong>1+ year of professional experience</strong> building production-grade ML systems, shipping scalable AI applications, and engineering intelligent systems focused on performance, reliability, and real-world impact.
