@@ -8,7 +8,7 @@
 
 <table style="width:100%; border:none;">
 <tr style="border:none;">
-<td width="65%" valign="center" style="border:none;">
+<td width="100%" valign="center" style="border:none;">
 
 <h1>Hey! there, I'm Sri Harish 🙋🏻‍♀️</h1>
 
