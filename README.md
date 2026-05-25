@@ -19,9 +19,7 @@
 </p>
 
 <p>
-  AI/ML Engineer with <strong>1+ year of professional experience</strong> building production-grade ML systems,<br/>
-  shipping full-stack AI applications, and pushing the frontier of Agentic AI & LLM Ops.<br/>
-  Based in India — shipping real systems, not college projects.
+  AI/ML Engineer with <strong>1+ year of professional experience</strong> building production-grade ML systems,shipping full-stack AI applications, and pushing the frontier of Agentic AI & LLM Ops.Based in India shipping real systems, not college projects.
 </p>
 
 <br/>
@@ -37,7 +35,6 @@
 💬 &nbsp;Ask me about <strong>Data Science, MLOps, and AI Engineering</strong><br/><br/>
 
 📫 &nbsp;Reach me at <strong>sriharishbiology@gmail.com</strong><br/><br/>
-
 🌐 &nbsp;Portfolio → <a href="https://sriharish.dev">sriharish.dev</a>
 
 </td>
