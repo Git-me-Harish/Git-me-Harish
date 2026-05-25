@@ -6,9 +6,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner" />
 </div>
 
-<table>
-<tr>
-<td width="65%" valign="center">
+<table style="width:100%; border:none;">
+<tr style="border:none;">
+<td width="65%" valign="center" style="border:none;">
 
 <h1>Hey! there, I'm Sri Harish 🙋🏻‍♀️</h1>
 
@@ -39,7 +39,7 @@
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle" style="border:none;">
 
 <img 
   src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
