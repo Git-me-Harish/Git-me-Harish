@@ -6,9 +6,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner" />
 </div>
 
----
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="340" alt="AI Coding GIF" />
+<table>
+<tr>
+<td width="65%" valign="center">
 
 <h1>Hey! there, I'm Sri Harish 🙋🏻‍♀️</h1>
 
@@ -26,17 +26,32 @@
 
 <br/>
 
-🔭 &nbsp;Currently building **production-grade Deep Learning systems**  
-🌱 &nbsp;Exploring **Agentic AI**, **LLM Ops**, and **ML Ops**  
-👯 &nbsp;Open to collaborate on **AI/ML Research & Full-Stack AI Systems**  
-🤝 &nbsp;Looking to contribute to **Generative AI & LLM Applications**  
-💬 &nbsp;Ask me about **Data Science, MLOps, and AI Engineering**  
-📫 &nbsp;Reach me at **sriharishbiology@gmail.com**  
-🌐 &nbsp;Portfolio → [sriharish.dev](https://sriharish182004-qmhv69lh5-sriharishbiology-gmailcoms-projects.vercel.app/)
+🔭 &nbsp;Currently building <strong>production-grade Deep Learning systems</strong><br/><br/>
 
-<br clear="right"/>
+🌱 &nbsp;Exploring <strong>Agentic AI</strong>, <strong>LLM Ops</strong>, and <strong>ML Ops</strong><br/><br/>
 
----
+👯 &nbsp;Open to collaborate on <strong>AI/ML Research & Full-Stack AI Systems</strong><br/><br/>
+
+🤝 &nbsp;Looking to contribute to <strong>Generative AI & LLM Applications</strong><br/><br/>
+
+💬 &nbsp;Ask me about <strong>Data Science, MLOps, and AI Engineering</strong><br/><br/>
+
+📫 &nbsp;Reach me at <strong>sriharishbiology@gmail.com</strong><br/><br/>
+
+🌐 &nbsp;Portfolio → <a href="https://sriharish.dev">sriharish.dev</a>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+  width="340"
+/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack & Skills
 
