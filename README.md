@@ -156,19 +156,46 @@
 
 # ⚡ GitHub Stats
 
-<div align="center">
+<table style="width:100%; border:none;">
+<tr style="border:none;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=git-me-harish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="195" alt="GitHub Stats" />
+<td width="65%" align="center" style="border:none;">
 
-&nbsp;&nbsp;&nbsp;
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=git-me-harish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" 
+  width="100%"
+  alt="GitHub Stats" 
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-me-harish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="195" alt="Top Languages" />
+<br/><br/>
 
-</div>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=git-me-harish&theme=tokyonight&hide_border=true&card_width=700" 
+  alt="GitHub Streak" 
+/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-me-harish&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" />
-</div>
+</td>
+
+<td width="35%" align="center" valign="middle" style="border:none;">
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"
+  width="100%"
+  alt="Coding Animation"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=git-me-harish&layout=compact&theme=tokyonight&hide_border=true"
+  width="100%"
+  alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
