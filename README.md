@@ -208,7 +208,7 @@
 
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=git-me-harish&layout=compact&theme=tokyonight&hide_border=true"
-  width="100%"
+  width="120%"
   alt="Top Languages"
 />
 
