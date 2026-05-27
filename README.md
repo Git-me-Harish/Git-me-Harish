@@ -198,8 +198,8 @@
 <td width="35%" align="center" valign="middle" style="border:none;">
 
 <img 
-  src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"
-  width="100%"
+  src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"
+  width="120%"
   alt="Coding Animation"
 />
 
