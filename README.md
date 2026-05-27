@@ -25,7 +25,7 @@
 <div align="left">
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=false&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;LLM+%26+Agentic+AI+Builder;System+Design+Engineer;Scalable+AI+Systems+Architect;Performance+Optimization+Engineer;Security+Focused+AI+Developer;Full-Stack+AI+Engineer;MLOps+%26+Data+Engineering;Deep+Learning+Practitioner" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=58A6FF&center=false&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;LLM+%26+Agentic+AI+Builder;System+Design+Engineer;Scalable+AI+Systems+Architect;Performance+Optimization+Engineer;Security+Focused+AI+Developer;Full-Stack+AI+Engineer;MLOps+%26+Data+Engineering;Deep+Learning+Practitioner" 
   alt="Typing SVG" 
 />
 
