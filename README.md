@@ -199,7 +199,7 @@
 
 <img 
   src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"
-  width="250%"
+  width="100%"
   alt="Coding Animation"
 />
 
