@@ -33,7 +33,7 @@
 
 
 <p>
-  AI/ML Engineer with <strong>1+ year of professional experience</strong> building production-grade ML systems, shipping scalable AI applications, and engineering intelligent systems focused on performance, reliability, and real-world impact.
+  AI/ML Engineer with <strong>1+ year of professional experience</strong> building production-grade ML systems, shipping scalable AI applications, and engineering intelligent systems focused on performance, reliability, and real world impact.
 </p>
 
 <br/>
