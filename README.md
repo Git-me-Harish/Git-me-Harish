@@ -198,7 +198,7 @@
 <td width="35%" align="center" valign="middle" style="border:none;">
 
 <img 
-  src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"
+  src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"
   width="100%"
   alt="Coding Animation"
 />
