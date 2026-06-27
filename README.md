@@ -199,9 +199,9 @@
 <td width="35%" align="center" valign="middle" style="border:none;">
 
 <img 
-  src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg"
+  src="https://github.com/images/modules/search/dark2x.png"
   width="100%"
-  alt="Coding Animation"
+  alt="Right Banner"
 />
 
 <br/><br/>
