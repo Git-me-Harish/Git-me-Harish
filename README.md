@@ -39,7 +39,7 @@
 <br/>
 
 🔭 &nbsp;Currently building <strong>production-grade AI & Deep Learning systems</strong><br/><br/>
-🌱 &nbsp;Exploring <strong>Agentic AI</strong>, <strong>LLM Ops</strong>, <strong>System Design</strong>, and <strong>Scalable AI Architectures</strong><br/><br/>
+🌱 &nbsp;Exploring <strong>Agentic AI</strong>, <strong>LLM Ops</strong>, </strong>ML Ops</strong>, <strong>System Design</strong>, and <strong>Scalable AI Architectures</strong><br/><br/>
 👯 &nbsp;Open to collaborate on <strong>AI/ML Research</strong>, <strong>LLM Applications</strong>, and <strong>Full-Stack AI Systems</strong><br/><br/>
 🤝 &nbsp;Looking to contribute to <strong>Generative AI</strong>, <strong>MLOps</strong>, and <strong>Enterprise AI Platforms</strong><br/><br/>
 💬 &nbsp;Ask me about <strong>AI Engineering</strong>, <strong>Data Science</strong>, <strong>MLOps</strong>, <strong>Analytics</strong>, and <strong>System Optimization</strong><br/><br/>
