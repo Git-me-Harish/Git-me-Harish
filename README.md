@@ -112,6 +112,7 @@
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & DevOps
